@@ -7,7 +7,7 @@ module.exports = {
   defaultDescription: 'I’m Arisekola and I’m a Backend & Devops engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/atundearisekola',
-    github: 'https://github.com/atundearisekola',
+    github: 'https://github.com/atundearisekola/',
     linkedin: 'https://www.linkedin.com/in/atundearisekola/',
     instagram: 'https://instagram.com/atundearisekola',
     youtube: 'https://www.youtube.com/user/atundearisekola',
