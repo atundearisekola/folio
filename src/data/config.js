@@ -2,9 +2,9 @@ module.exports = {
   defaultTitle: 'Atunde Arisekola',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Atunde Arisekola',
-  url: 'http://localhost:8000/',
+  url: 'https://portfolio.smakosh.com',
   legalName: 'Atunde Arisekola',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  defaultDescription: 'I’m Arisekola and I’m a Backend & Devops engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/atundearisekola',
     github: 'https://github.com/atundearisekola',
